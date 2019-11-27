@@ -1,0 +1,16 @@
+{
+  data: [
+    {
+    "id" : 1,
+    "person": "Calistus"
+    },
+    {
+    "id" : 2,
+    "person": "Obeke"
+    },
+    {
+    "id" : 3,
+    "person": "Chukwudalu"
+    }
+  ]
+}
